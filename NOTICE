@@ -1,0 +1,15 @@
+AI 翻译/字幕工具中文整合包导航 — NOTICE
+
+This is an unofficial mirror/guide (非官方镜像 / 使用指南).
+All rights belong to the original authors. 所有软件的版权与权利归原作者所有。
+
+Listed projects (see each project's own LICENSE):
+- PDFMathTranslate/PDFMathTranslate  — AGPL-3.0
+- chidiwilliams/buzz                 — MIT
+- buxuku/SmartSub                    — MIT
+- Huanshere/VideoLingo               — Apache-2.0
+- ogkalu2/comic-translate            — Apache-2.0
+
+This repository contains only original guide text and links; it does not claim authorship of
+any listed software. Any redistributed package must keep the upstream LICENSE and copyright
+notices and comply with its terms (e.g. AGPL-3.0 source obligations).
