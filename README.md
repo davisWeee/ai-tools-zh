@@ -17,7 +17,7 @@
   2. 运行 `pdf2zh -i` 打开网页界面（默认 7860 端口），上传 PDF。
   3. 选择翻译服务并填写所需 API Key（用免费服务则无需），点击翻译，得到中英双语 PDF。
 - **下载**：
-  - 网盘整合包：`{{QUARK_LINK_PDFMATHTRANSLATE}}`（待填写）
+  - 网盘整合包：`https://github.com/davisWeee/ai-tools-zh/releases/download/packs-v1/pdf2zh-v1.9.11-win64.zip`（待填写）
   - 官方 GitHub：<https://github.com/PDFMathTranslate/PDFMathTranslate>（[Releases](https://github.com/PDFMathTranslate/PDFMathTranslate/releases/latest)）
 - 网页版教程：[pdfmathtranslate.html](https://davisweee.github.io/ai-tools-zh/pdfmathtranslate.html)
 
@@ -45,7 +45,7 @@
   2. 在软件内选择语音识别模型，并在翻译设置里选择翻译服务、填写 API 信息。
   3. 拖入视频，选择源语言与目标语言，开始处理，导出字幕文件或烧录进视频。
 - **下载**：
-  - 网盘整合包：`{{QUARK_LINK_SMARTSUB}}`（待填写）
+  - 网盘整合包：`https://github.com/davisWeee/ai-tools-zh/releases/download/packs-v1/SmartSub_Windows_3.12.2_x64.exe`（待填写）
   - 官方 GitHub：<https://github.com/buxuku/SmartSub>（[Releases](https://github.com/buxuku/SmartSub/releases/latest)）
 - 网页版教程：[smartsub.html](https://davisweee.github.io/ai-tools-zh/smartsub.html)
 
@@ -74,7 +74,7 @@
   2. 在设置里选择源语言、目标语言以及翻译服务（填写对应 API Key）。
   3. 导入漫画图片或压缩包，运行自动翻译，检查并微调后导出。
 - **下载**：
-  - 网盘整合包：`{{QUARK_LINK_COMIC_TRANSLATE}}`（待填写）
+  - 网盘整合包：`https://github.com/davisWeee/ai-tools-zh/releases/download/packs-v1/ct-3.0.3-win-setup.exe`（待填写）
   - 官方 GitHub：<https://github.com/ogkalu2/comic-translate>（[Releases](https://github.com/ogkalu2/comic-translate/releases/latest)）
 - 网页版教程：[comic-translate.html](https://davisweee.github.io/ai-tools-zh/comic-translate.html)
 
